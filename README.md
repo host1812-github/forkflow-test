@@ -13,5 +13,4 @@ host1812: change #002
 
 ## New feature
 
-In the new feature we are going to do more..
-.
+In the new feature we are going to do more...
