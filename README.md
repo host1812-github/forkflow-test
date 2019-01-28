@@ -11,6 +11,11 @@ host1812-github: chagne #003
 host1812: change #002
 
 
+## I found super-duper idea
+
+In this "super-duper" idea we shoud do...
+
+
 ## New feature
 
 In the new feature we are going to do more...
